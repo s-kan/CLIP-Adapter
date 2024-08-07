@@ -16,16 +16,12 @@ _tokenizer = _Tokenizer()
 
 
 CUSTOM_TEMPLATES = {
-    'OxfordPets': 'a photo of a {}, a type of pet.',
-    'OxfordFlowers': 'a photo of a {}, a type of flower.',
-    'FGVCAircraft': 'a photo of a {}, a type of aircraft.',
-    'DescribableTextures': '{} texture.',
-    'EuroSAT': 'a centered satellite photo of {}.',
-    'StanfordCars': 'a photo of a {}.',
-    'Food101': 'a photo of {}, a type of food.',
-    'SUN397': 'a photo of a {}.',
-    'Caltech101': 'a photo of a {}.',
-    'UCF101': 'a photo of a person doing {}.',
+    'Buildings': 'a photo of a {} building.',
+    'Forests': 'a photo of a forest with {}.',
+    'Glacier': 'a photo of a glacier with {}.',
+    'Mountains': 'a photo of a mountain range with {}.',
+    'Sea': 'a photo of the sea with {}.',
+    'Street': 'a photo of a street with {}.'
     'ImageNet': 'a photo of a {}.',
     'ImageNetSketch': 'a photo of a {}.',
     'ImageNetV2': 'a photo of a {}.',
