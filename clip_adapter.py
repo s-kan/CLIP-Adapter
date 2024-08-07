@@ -21,7 +21,7 @@ CUSTOM_TEMPLATES = {
     'Glacier': 'a photo of a glacier with {}.',
     'Mountains': 'a photo of a mountain range with {}.',
     'Sea': 'a photo of the sea with {}.',
-    'Street': 'a photo of a street with {}.'
+    'Street': 'a photo of a street with {}.',
     'ImageNet': 'a photo of a {}.',
     'ImageNetSketch': 'a photo of a {}.',
     'ImageNetV2': 'a photo of a {}.',
